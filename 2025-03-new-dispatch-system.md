@@ -1,9 +1,10 @@
 ---
-title: New Dispatch System Launched
-summary: A major upgrade to how jobs and convoys are dispatched at NodeLogistics.
-date: 2025-03-18
-author: Harley Chambers
-position: Founder & Lead Developer
+title: "New Convoy System Launched"
+summary: "We’ve rolled out a brand new convoy management system for NodeLogistics."
+date: "2025-01-15"
+author: "Harley Chambers"
+position: "Founder & Lead Developer"
+thumbnail: "https://media.discordapp.net/attachments/811595681453441074/1454226198434549785/banner.png?ex=6950512f&is=694effaf&hm=7e407d5d28b92f5e6e9a8a1ce0af8baa3337995331e79500101ea5794117d466&=&format=webp&quality=lossless&width=1152&height=768"
 ---
 
 ## 🚚 What’s New?
